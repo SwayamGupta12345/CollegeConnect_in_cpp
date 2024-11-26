@@ -62,7 +62,7 @@
 
 2. **Compile the Program**  
    ```bash
-   g++ -o college_connect main.cpp
+   g++ -o college_connect SocialMediaPlatform.cpp
    ```
 
 3. **Run the Platform**  
@@ -91,8 +91,8 @@
 ---
 
 ## File Structure
-- **main.cpp**: Core program logic and entry point.
-- **user.h, post.h, graph.h**: Modular header files defining classes and functionalities.
+- **SocialMediaPlatform.cpp**: Core program logic and entry point.
+- **SocialMediaPlatformHeader.h**: Modular header files defining classes and functionalities.
 - **sample-data.txt**: Example data for testing the platform.
 - **README.md**: Documentation for understanding and navigating the project.
 
